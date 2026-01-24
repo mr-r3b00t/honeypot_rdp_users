@@ -1,4 +1,3 @@
-TargetUserName
 ADMIN
 ADMINISTRATOR
 ADMINISTRADOR
@@ -19,7 +18,6 @@ adminuser
 backupuser
 BOARDROOM
 COMPUTER
-
 backupadmin
 AARON
 calvin
